@@ -136,6 +136,6 @@ Welcome to my profile! Thanks for visiting and I'd love to [connect](https://www
 <!-- stack ends -->
 
 <p align="center">
-  [visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/matbrgz)
+  [visitors](https://visitor-badge.glitch.me/badge?page_id=matbrgz)
 </p>
   
