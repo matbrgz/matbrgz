@@ -16,26 +16,30 @@ Welcome to my profile! Thanks for visiting and I'd love to [connect](https://www
 <details>
 <summary><b> My Work Experience </b></summary>
 <table>
-  <thead>
-    <tr>
-      <th>Job Name</th>
-      <th>Roles & responsibilities</th>
-    </tr>
-  </thead>
-  <tbody>
-  	<tr>
-      <td><b><a href="https://www.rockcontent.com/">Rock Content</a></b></td>
-      <td>Data Protection & Compliance Officer</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://www.viacarro.com/">ViaCarro</a></b></td>
-      <td>Chief Technology Officer</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://www.rockcontent.com/">Rock Content</a></b></td>
-      <td>Frontend Developer</td>
-    </tr>
-  </tbody>
+	<thead>
+		<tr>
+			<th>Job Name</th>
+			<th>Roles & responsibilities</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><b><a href="https://beopendigital.com/">OpenDigital</a></b></td>
+			<td>Chief Executive Officer</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://www.rockcontent.com/">Rock Content</a></b></td>
+			<td>Data Protection & Compliance Officer</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://www.viacarro.com/">ViaCarro</a></b></td>
+			<td>Chief Technology Officer</td>
+		</tr>
+		<tr>
+			<td><b><a href="https://www.rockcontent.com/">Rock Content</a></b></td>
+			<td>Frontend Developer</td>
+		</tr>
+	</tbody>
 </table>
 </details>
 <!-- work_experience ends -->
@@ -44,31 +48,31 @@ Welcome to my profile! Thanks for visiting and I'd love to [connect](https://www
 <details>
 <summary><b> My Open Source Projects </b></summary>
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/matbrgz/dotfiles"><b>dotfile</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/matbrgz/dotfiles?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/matbrgz/dotfiles?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/matbrgz/dotfiles?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/matbrgz/dotfiles?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/ssgberk/ssg-frameworks"><b>SSGBerk</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ssgberk/ssg-frameworks?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ssgberk/ssg-frameworks?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ssgberk/ssg-frameworks?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ssgberk/ssg-frameworks?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
+	<thead align="center">
+		<tr border: none;>
+			<td><b>🎁 Projects</b></td>
+			<td><b>⭐ Stars</b></td>
+			<td><b>📚 Forks</b></td>
+			<td><b>🛎 Issues</b></td>
+			<td><b>📬 Pull requests</b></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="https://github.com/matbrgz/dotfiles"><b>dotfile</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/matbrgz/dotfiles?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/matbrgz/dotfiles?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/matbrgz/dotfiles?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/matbrgz/dotfiles?style=flat-square&labelColor=343b41"/></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/ssgberk/ssg-frameworks"><b>SSGBerk</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/ssgberk/ssg-frameworks?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/ssgberk/ssg-frameworks?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/ssgberk/ssg-frameworks?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ssgberk/ssg-frameworks?style=flat-square&labelColor=343b41"/></td>
+		</tr>
+	</tbody>
 </table>
 </details>
 <!-- opensource_projects ends -->
@@ -136,6 +140,6 @@ Welcome to my profile! Thanks for visiting and I'd love to [connect](https://www
 <!-- stack ends -->
 
 <p align="center">
-  [visitors](https://visitor-badge.glitch.me/badge?page_id=matbrgz)
+	[visitors](https://visitor-badge.glitch.me/badge?page_id=matbrgz)
 </p>
-  
+	
