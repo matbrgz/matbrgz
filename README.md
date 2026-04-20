@@ -12,7 +12,7 @@
 
 Welcome to my profile! Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/matbrgz/)!
 
-Technology professional with **18+ years of experience** combining software development, technical leadership, and business management. Based in Minas Gerais, Brazil. Passionate about innovation, open source, and building solutions that drive real impact.
+Technology professional **since 2006**, combining software development, technical leadership, and business management. Based in Minas Gerais, Brazil. Passionate about innovation, open source, and building solutions that drive real impact.
 
 ---
 
