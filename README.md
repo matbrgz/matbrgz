@@ -68,6 +68,46 @@ Technology professional **since 2006**, combining software development, technica
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="https://github.com/betterwebinit/rustyll"><b>rustyll</b></a></td>
+			<td>Future-proof, blazing fast static site generator (SSG)</td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/betterwebinit/rustyll?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/betterwebinit/rustyll?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/betterwebinit/rustyll?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/betterwebinit/rustyll?style=flat-square&labelColor=343b41"/></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/betterwebinit/designkit"><b>designkit</b></a></td>
+			<td>Modern, future-proof web components UI kit</td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/betterwebinit/designkit?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/betterwebinit/designkit?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/betterwebinit/designkit?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/betterwebinit/designkit?style=flat-square&labelColor=343b41"/></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/UnitedOpen-Source/microHelium"><b>microHelium</b></a></td>
+			<td>ICPC-style online judge & contest platform (Laravel + Vue)</td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/UnitedOpen-Source/microHelium?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/UnitedOpen-Source/microHelium?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/UnitedOpen-Source/microHelium?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UnitedOpen-Source/microHelium?style=flat-square&labelColor=343b41"/></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/UnitedOpen-Source/joulex"><b>joulex</b></a></td>
+			<td>Precision energy & command execution benchmarking tool</td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/UnitedOpen-Source/joulex?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/UnitedOpen-Source/joulex?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/UnitedOpen-Source/joulex?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UnitedOpen-Source/joulex?style=flat-square&labelColor=343b41"/></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/UnitedOpen-Source/redirect.center"><b>redirect.center</b></a></td>
+			<td>Stateless HTTP/HTTPS domain redirection service via DNS</td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/UnitedOpen-Source/redirect.center?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/UnitedOpen-Source/redirect.center?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/UnitedOpen-Source/redirect.center?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UnitedOpen-Source/redirect.center?style=flat-square&labelColor=343b41"/></td>
+		</tr>
+		<tr>
 			<td><a href="https://github.com/matbrgz/rocknext"><b>rocknext</b></a></td>
 			<td>Frappe/ERPNext app for enterprise use</td>
 			<td><img alt="Stars" src="https://img.shields.io/github/stars/matbrgz/rocknext?style=flat-square&labelColor=343b41"/></td>
@@ -114,379 +154,439 @@ Technology professional **since 2006**, combining software development, technica
 
 <!-- opensource_contributions starts -->
 <details open>
-<summary><b> Open Source Contributions </b></summary>
+<summary><b> Open Source Contributions — Major Repositories (1,000+ ★) </b></summary>
+
 <table>
-	<thead>
+	<thead align="center">
 		<tr>
-			<th>Repository</th>
-			<th>Year</th>
-			<th>Accepted Pull Requests</th>
-			<th>Total</th>
+			<td><b>Repository</b></td>
+			<td><b>Stars</b></td>
+			<td><b>Pull Requests</b></td>
+			<td><b>Total</b></td>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td><a href="https://github.com/UnitedOpen-Source/microHelium"><b>UnitedOpen-Source/microHelium</b></a></td>
-			<td align="center">2026</td>
+			<td><a href="https://github.com/twbs/bootstrap"><b>twbs/bootstrap</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/twbs/bootstrap?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/UnitedOpen-Source/microHelium/pull/411">#411 O pino do Alpine passa a prometer o que o rótulo promete, e o build para de quebrar a cada revisão (#408)</a><br/>
-				• <a href="https://github.com/UnitedOpen-Source/microHelium/pull/409">#409 O `postgresql-dev` sai das três imagens depois de compilar o driver (#391)</a><br/>
-				• <a href="https://github.com/UnitedOpen-Source/microHelium/pull/410">#410 O competidor deixa de encontrar tela só em português (#397)</a><br/>
-				↳ <a href="https://github.com/UnitedOpen-Source/microHelium/pulls?q=is%3Apr+is%3Amerged+author%3Amatbrgz"><b>+204 outros (ver todos os 207) →</b></a>
+				• <a href="https://github.com/twbs/bootstrap/pull/27544">#27544 download page: add Yarn</a>
 			</td>
-			<td align="center">207</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/UnitedOpen-Source/joulex"><b>UnitedOpen-Source/joulex</b></a></td>
-			<td align="center">2026</td>
+			<td><a href="https://github.com/electron/electron"><b>electron/electron</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/electron/electron?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/UnitedOpen-Source/joulex/pull/230">#230 chore: add pre-commit Rust checks and contribution guide</a><br/>
-				• <a href="https://github.com/UnitedOpen-Source/joulex/pull/224">#224 chore: rebrand project from joulex to perfratio</a><br/>
-				• <a href="https://github.com/UnitedOpen-Source/joulex/pull/229">#229 fix(until): terminate surviving descendants after readiness</a><br/>
-				↳ <a href="https://github.com/UnitedOpen-Source/joulex/pulls?q=is%3Apr+is%3Amerged+author%3Amatbrgz"><b>+103 outros (ver todos os 106) →</b></a>
+				• <a href="https://github.com/electron/electron/pull/17864">#17864 fix: Comparison using is when operands support __eq__</a>
 			</td>
-			<td align="center">106</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/UnitedOpen-Source/redirect.center"><b>UnitedOpen-Source/redirect.center</b></a></td>
-			<td align="center">2026</td>
+			<td><a href="https://github.com/gatsbyjs/gatsby"><b>gatsbyjs/gatsby</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/gatsbyjs/gatsby?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/UnitedOpen-Source/redirect.center/pull/5">#5 Separate Desvio site routes and document upstream history</a><br/>
-				• <a href="https://github.com/UnitedOpen-Source/redirect.center/pull/2">#2 docs: atualizar o README para o Desvio</a><br/>
-				• <a href="https://github.com/UnitedOpen-Source/redirect.center/pull/1">#1 Desvio: nova interface, gerador DNS, analytics por redirecionamento e denúncias</a>
+				• <a href="https://github.com/gatsbyjs/gatsby/pull/13467">#13467 chore(www): fix redundant boolean condition</a>
 			</td>
-			<td align="center">3</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/FenixValley/web-fenixvalley.com.br"><b>FenixValley/web-fenixvalley.com.br</b></a></td>
-			<td align="center">2026</td>
-			<td>
-				• <a href="https://github.com/FenixValley/web-fenixvalley.com.br/pull/19">#19 feat: animações da home, banco D1, área admin, mapa do ecossistema e voluntariado</a><br/>
-				• <a href="https://github.com/FenixValley/web-fenixvalley.com.br/pull/20">#20 feat: cadastro do /mapa envia para o Google Forms</a><br/>
-				• <a href="https://github.com/FenixValley/web-fenixvalley.com.br/pull/18">#18 feat: melhora visual das seções ecosystem, faca-parte e oportunidades</a>
-			</td>
-			<td align="center">3</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/easypanel-io/templates"><b>easypanel-io/templates</b></a></td>
-			<td align="center">2026</td>
-			<td>
-				• <a href="https://github.com/easypanel-io/templates/pull/447">#447 add: Pupilfirst</a><br/>
-				• <a href="https://github.com/easypanel-io/templates/pull/448">#448 add: ERPNext</a><br/>
-				• <a href="https://github.com/easypanel-io/templates/pull/460">#460 add: gitness</a>
-			</td>
-			<td align="center">3</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/gportugol/gpt"><b>gportugol/gpt</b></a></td>
-			<td align="center">2026</td>
-			<td>
-				• <a href="https://github.com/gportugol/gpt/pull/14">#14 CI: uma execução por commit em vez de duas (issue #9)</a><br/>
-				• <a href="https://github.com/gportugol/gpt/pull/32">#32 Não emite conversão de tipo no &quot;retorne&quot; sem valor (issue #29, item 1)</a>
-			</td>
-			<td align="center">2</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/webminas/payload"><b>webminas/payload</b></a></td>
-			<td align="center">2026</td>
-			<td>
-				• <a href="https://github.com/webminas/payload/pull/1">#1 Add support for Cloudflare vinext</a>
-			</td>
-			<td align="center">1</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/h3rmel/guarahooks"><b>h3rmel/guarahooks</b></a></td>
-			<td align="center">2025</td>
-			<td>
-				• <a href="https://github.com/h3rmel/guarahooks/pull/48">#48 Atualizar ambiente, aprimorar hooks e scripts</a><br/>
-				• <a href="https://github.com/h3rmel/guarahooks/pull/47">#47 Refinamento do texto em inglês na documentação e configurações do guarahooks</a><br/>
-				• <a href="https://github.com/h3rmel/guarahooks/pull/45">#45 PR #1</a>
-			</td>
-			<td align="center">3</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/jamstack/jamstack.org"><b>jamstack/jamstack.org</b></a></td>
-			<td align="center">2025</td>
-			<td>
-				• <a href="https://github.com/jamstack/jamstack.org/pull/1046">#1046 Add Rustyll Static Site Generator to Jamstack Generators</a>
-			</td>
-			<td align="center">1</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/forwardemail/reserved-email-addresses-list"><b>forwardemail/reserved-email-addresses-list</b></a></td>
-			<td align="center">2022</td>
-			<td>
-				• <a href="https://github.com/forwardemail/reserved-email-addresses-list/pull/5">#5 Add Restrictions for Reserved Addresses</a>
-			</td>
-			<td align="center">1</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/outline/outline"><b>outline/outline</b></a></td>
-			<td align="center">2020, 2021</td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/outline/outline?style=flat-square&labelColor=343b41"/></td>
 			<td>
 				• <a href="https://github.com/outline/outline/pull/2293">#2293 feat: Add Google DataStudio embed</a><br/>
 				• <a href="https://github.com/outline/outline/pull/1541">#1541 chore: Upgrade Sentry to Latest Version</a><br/>
 				• <a href="https://github.com/outline/outline/pull/1465">#1465 feat: Add ClickUp Embed Service</a><br/>
-				↳ <a href="https://github.com/outline/outline/pulls?q=is%3Apr+is%3Amerged+author%3Amatbrgz"><b>+1 outro (ver todos os 4) →</b></a>
+				↳ <a href="https://github.com/outline/outline/pulls?q=author%3Amatbrgz"><b>+1 outro (ver todos os 4) →</b></a>
 			</td>
-			<td align="center">4</td>
+			<td align="center"><b>4</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/dotfiles/dotfiles.github.com"><b>dotfiles/dotfiles.github.com</b></a></td>
-			<td align="center">2019, 2021</td>
+			<td><a href="https://github.com/jaredpalmer/formik"><b>jaredpalmer/formik</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/jaredpalmer/formik?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/dotfiles/dotfiles.github.com/pull/286">#286 Change my Username in Inspiration</a><br/>
-				• <a href="https://github.com/dotfiles/dotfiles.github.com/pull/243">#243 MatheusRV dotfile</a>
+				• <a href="https://github.com/jaredpalmer/formik/pull/1447">#1447 Overwritten property</a>
 			</td>
-			<td align="center">2</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/saadeghi/design-systems"><b>saadeghi/design-systems</b></a></td>
-			<td align="center">2021</td>
+			<td><a href="https://github.com/digitalocean/nginxconfig.io"><b>digitalocean/nginxconfig.io</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/digitalocean/nginxconfig.io?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/saadeghi/design-systems/pull/2">#2 Update Rock Content Design System</a>
+				• <a href="https://github.com/digitalocean/nginxconfig.io/pull/513">#513 feat: add PrestaShop support and preset</a>
 			</td>
-			<td align="center">1</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/juan-silveira/lp-calc"><b>juan-silveira/lp-calc</b></a></td>
-			<td align="center">2021</td>
+			<td><a href="https://github.com/dotnet/runtime"><b>dotnet/runtime</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/dotnet/runtime?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/juan-silveira/lp-calc/pull/3">#3 Add caramelswap and remove single quotes</a>
+				• <a href="https://github.com/dotnet/runtime/pull/134526">#134526 Fail double mapper creation when RLIMIT_FSIZE leaves no usable size</a>
 			</td>
-			<td align="center">1</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/JupiterOne/security-policy-templates"><b>JupiterOne/security-policy-templates</b></a></td>
-			<td align="center">2021</td>
-			<td>
-				• <a href="https://github.com/JupiterOne/security-policy-templates/pull/90">#90 Fix: Duplicated Registry in Json</a>
-			</td>
-			<td align="center">1</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/algolia/wordpress-docker"><b>algolia/wordpress-docker</b></a></td>
-			<td align="center">2020</td>
-			<td>
-				• <a href="https://github.com/algolia/wordpress-docker/pull/8">#8 New gd command for php7</a><br/>
-				• <a href="https://github.com/algolia/wordpress-docker/pull/7">#7 Fix to run on 2020</a>
-			</td>
-			<td align="center">2</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/erxes/erxes"><b>erxes/erxes</b></a></td>
-			<td align="center">2020</td>
-			<td>
-				• <a href="https://github.com/erxes/erxes/pull/2040">#2040 update dokcer compose to last verison</a>
-			</td>
-			<td align="center">1</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/TechEmpower/FrameworkBenchmarks"><b>TechEmpower/FrameworkBenchmarks</b></a></td>
-			<td align="center">2018, 2019</td>
-			<td>
-				• <a href="https://github.com/TechEmpower/FrameworkBenchmarks/pull/4767">#4767 Package &#x27;python-software-properties&#x27; has no installation candidate</a><br/>
-				• <a href="https://github.com/TechEmpower/FrameworkBenchmarks/pull/4670">#4670 Unused import</a><br/>
-				• <a href="https://github.com/TechEmpower/FrameworkBenchmarks/pull/3826">#3826 Vagrant Fix for WSL</a><br/>
-				↳ <a href="https://github.com/TechEmpower/FrameworkBenchmarks/pulls?q=is%3Apr+is%3Amerged+author%3Amatbrgz"><b>+8 outros (ver todos os 11) →</b></a>
-			</td>
-			<td align="center">11</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/all-contributors/allcontributors.org"><b>all-contributors/allcontributors.org</b></a></td>
-			<td align="center">2018, 2019</td>
-			<td>
-				• <a href="https://github.com/all-contributors/allcontributors.org/pull/111">#111 Add Static Release for Translated Version</a><br/>
-				• <a href="https://github.com/all-contributors/allcontributors.org/pull/110">#110 Add Latest Release Dynamic</a><br/>
-				• <a href="https://github.com/all-contributors/allcontributors.org/pull/108">#108 Security in PT-BR</a><br/>
-				↳ <a href="https://github.com/all-contributors/allcontributors.org/pulls?q=is%3Apr+is%3Amerged+author%3Amatbrgz"><b>+6 outros (ver todos os 9) →</b></a>
-			</td>
-			<td align="center">9</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/InstaPy/InstaPy"><b>InstaPy/InstaPy</b></a></td>
-			<td align="center">2019</td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/InstaPy/InstaPy?style=flat-square&labelColor=343b41"/></td>
 			<td>
 				• <a href="https://github.com/InstaPy/InstaPy/pull/4336">#4336 Variable defined multiple times</a><br/>
 				• <a href="https://github.com/InstaPy/InstaPy/pull/4334">#4334 Remove redundant assignment by correting logic</a><br/>
 				• <a href="https://github.com/InstaPy/InstaPy/pull/4335">#4335 Comparison using is when operands support __eq__</a>
 			</td>
-			<td align="center">3</td>
+			<td align="center"><b>3</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/ryuuzaki42/26_DL_PVANet_files"><b>ryuuzaki42/26_DL_PVANet_files</b></a></td>
-			<td align="center">2019</td>
+			<td><a href="https://github.com/TechEmpower/FrameworkBenchmarks"><b>TechEmpower/FrameworkBenchmarks</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/TechEmpower/FrameworkBenchmarks?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/ryuuzaki42/26_DL_PVANet_files/pull/3">#3 Parser and formatter in favor of readability | Force LF ending</a><br/>
-				• <a href="https://github.com/ryuuzaki42/26_DL_PVANet_files/pull/2">#2 Ready for Review: SC2045 avoid</a>
+				• <a href="https://github.com/TechEmpower/FrameworkBenchmarks/pull/4767">#4767 Package &#x27;python-software-properties&#x27; has no installation candidate</a><br/>
+				• <a href="https://github.com/TechEmpower/FrameworkBenchmarks/pull/4670">#4670 Unused import</a><br/>
+				• <a href="https://github.com/TechEmpower/FrameworkBenchmarks/pull/3826">#3826 Vagrant Fix for WSL</a><br/>
+				↳ <a href="https://github.com/TechEmpower/FrameworkBenchmarks/pulls?q=author%3Amatbrgz"><b>+8 outros (ver todos os 11) →</b></a>
 			</td>
-			<td align="center">2</td>
+			<td align="center"><b>11</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/laryssamagalhaes/pessoas-palestrantes"><b>laryssamagalhaes/pessoas-palestrantes</b></a></td>
-			<td align="center">2019</td>
+			<td><a href="https://github.com/all-contributors/allcontributors.org"><b>all-contributors/allcontributors.org</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/all-contributors/allcontributors.org?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/laryssamagalhaes/pessoas-palestrantes/pull/32">#32 add MatheusRV as Speaker</a>
+				• <a href="https://github.com/all-contributors/allcontributors.org/pull/111">#111 Add Static Release for Translated Version</a><br/>
+				• <a href="https://github.com/all-contributors/allcontributors.org/pull/110">#110 Add Latest Release Dynamic</a><br/>
+				• <a href="https://github.com/all-contributors/allcontributors.org/pull/108">#108 Security in PT-BR</a><br/>
+				↳ <a href="https://github.com/all-contributors/allcontributors.org/pulls?q=author%3Amatbrgz"><b>+6 outros (ver todos os 9) →</b></a>
 			</td>
-			<td align="center">1</td>
+			<td align="center"><b>9</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/Open-Web-Analytics/Open-Web-Analytics"><b>Open-Web-Analytics/Open-Web-Analytics</b></a></td>
-			<td align="center">2019</td>
+			<td><a href="https://github.com/imsky/holder"><b>imsky/holder</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/imsky/holder?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/Open-Web-Analytics/Open-Web-Analytics/pull/398">#398 Duplicate property</a>
+				• <a href="https://github.com/imsky/holder/pull/222">#222 (Add) Yarn Command</a>
 			</td>
-			<td align="center">1</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/jaredpalmer/formik"><b>jaredpalmer/formik</b></a></td>
-			<td align="center">2019</td>
+			<td><a href="https://github.com/kartik-v/bootstrap-fileinput"><b>kartik-v/bootstrap-fileinput</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/kartik-v/bootstrap-fileinput?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/jaredpalmer/formik/pull/1447">#1447 Overwritten property</a>
+				• <a href="https://github.com/kartik-v/bootstrap-fileinput/pull/1325">#1325 Add NPM in Readme</a>
 			</td>
-			<td align="center">1</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/loomio/loomio"><b>loomio/loomio</b></a></td>
-			<td align="center">2019</td>
-			<td>
-				• <a href="https://github.com/loomio/loomio/pull/5382">#5382 Duplicate property</a>
-			</td>
-			<td align="center">1</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/electron/electron"><b>electron/electron</b></a></td>
-			<td align="center">2019</td>
-			<td>
-				• <a href="https://github.com/electron/electron/pull/17864">#17864 fix: Comparison using is when operands support __eq__</a>
-			</td>
-			<td align="center">1</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/projectfluent/fluent"><b>projectfluent/fluent</b></a></td>
-			<td align="center">2019</td>
-			<td>
-				• <a href="https://github.com/projectfluent/fluent/pull/257">#257 Duplicate switch case</a>
-			</td>
-			<td align="center">1</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/gatsbyjs/gatsby"><b>gatsbyjs/gatsby</b></a></td>
-			<td align="center">2019</td>
-			<td>
-				• <a href="https://github.com/gatsbyjs/gatsby/pull/13467">#13467 chore(www): fix redundant boolean condition</a>
-			</td>
-			<td align="center">1</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/hoodiehq/hoodie"><b>hoodiehq/hoodie</b></a></td>
-			<td align="center">2019</td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/hoodiehq/hoodie?style=flat-square&labelColor=343b41"/></td>
 			<td>
 				• <a href="https://github.com/hoodiehq/hoodie/pull/868">#868 Call to eval-like DOM function</a>
 			</td>
-			<td align="center">1</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/github/choosealicense.com"><b>github/choosealicense.com</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/github/choosealicense.com?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/github/choosealicense.com/pull/586">#586 i18n using opensource.guide solution</a>
+			</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/erxes/erxes"><b>erxes/erxes</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/erxes/erxes?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/erxes/erxes/pull/2040">#2040 update dokcer compose to last verison</a>
+			</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/jamstack/jamstack.org"><b>jamstack/jamstack.org</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/jamstack/jamstack.org?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/jamstack/jamstack.org/pull/1046">#1046 Add Rustyll Static Site Generator to Jamstack Generators</a>
+			</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/Open-Web-Analytics/Open-Web-Analytics"><b>Open-Web-Analytics/Open-Web-Analytics</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/Open-Web-Analytics/Open-Web-Analytics?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/Open-Web-Analytics/Open-Web-Analytics/pull/398">#398 Duplicate property</a>
+			</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/loomio/loomio"><b>loomio/loomio</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/loomio/loomio?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/loomio/loomio/pull/5382">#5382 Duplicate property</a>
+			</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/HDInnovations/UNIT3D"><b>HDInnovations/UNIT3D</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/HDInnovations/UNIT3D?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/HDInnovations/UNIT3D/pull/419">#419 (Add) Submodules</a>
+			</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/projectfluent/fluent"><b>projectfluent/fluent</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/projectfluent/fluent?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/projectfluent/fluent/pull/257">#257 Duplicate switch case</a>
+			</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/dotfiles/dotfiles.github.com"><b>dotfiles/dotfiles.github.com</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/dotfiles/dotfiles.github.com?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/dotfiles/dotfiles.github.com/pull/286">#286 Change my Username in Inspiration</a><br/>
+				• <a href="https://github.com/dotfiles/dotfiles.github.com/pull/243">#243 MatheusRV dotfile</a>
+			</td>
+			<td align="center"><b>2</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/apache/trafficcontrol"><b>apache/trafficcontrol</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/apache/trafficcontrol?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/apache/trafficcontrol/pull/3503">#3503 CLOSED - Comparison using is when operands support __eq__</a><br/>
+				• <a href="https://github.com/apache/trafficcontrol/pull/3502">#3502 CLOSED - Duplicate parameter names</a><br/>
+				• <a href="https://github.com/apache/trafficcontrol/pull/3501">#3501 CLOSED - [Ready for Review] Use of AngularJS markup in URL-valued attribute</a>
+			</td>
+			<td align="center"><b>3</b></td>
+		</tr>
+	</tbody>
+</table>
+</details>
+
+<details>
+<summary><b> Additional Open Source Contributions (&lt; 1,000 ★) </b></summary>
+
+<table>
+	<thead align="center">
+		<tr>
+			<td><b>Repository</b></td>
+			<td><b>Stars</b></td>
+			<td><b>Pull Requests</b></td>
+			<td><b>Total</b></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="https://github.com/saadeghi/design-systems"><b>saadeghi/design-systems</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/saadeghi/design-systems?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/saadeghi/design-systems/pull/2">#2 Update Rock Content Design System</a>
+			</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/JuliaLang/www.julialang.org"><b>JuliaLang/www.julialang.org</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/JuliaLang/www.julialang.org?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/JuliaLang/www.julialang.org/pull/2603">#2603 Clarify musl binary availability on downloads/support page (#2598)</a>
+			</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/JupiterOne/security-policy-templates"><b>JupiterOne/security-policy-templates</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/JupiterOne/security-policy-templates?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/JupiterOne/security-policy-templates/pull/90">#90 Fix: Duplicated Registry in Json</a>
+			</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/udleinati/redirect.center"><b>udleinati/redirect.center</b></a></td>
-			<td align="center">2017, 2018</td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/udleinati/redirect.center?style=flat-square&labelColor=343b41"/></td>
 			<td>
 				• <a href="https://github.com/udleinati/redirect.center/pull/31">#31 Fix Beautify Mistakes</a><br/>
 				• <a href="https://github.com/udleinati/redirect.center/pull/32">#32 Revert &quot;Revert &quot;All-Contributors &amp; Code Beautify &amp; Security Vulnerability Fix&quot;&quot;</a><br/>
 				• <a href="https://github.com/udleinati/redirect.center/pull/29">#29 All-Contributors &amp; Code Beautify &amp; Security Vulnerability Fix</a><br/>
-				↳ <a href="https://github.com/udleinati/redirect.center/pulls?q=is%3Apr+is%3Amerged+author%3Amatbrgz"><b>+1 outro (ver todos os 4) →</b></a>
+				↳ <a href="https://github.com/udleinati/redirect.center/pulls?q=author%3Amatbrgz"><b>+1 outro (ver todos os 4) →</b></a>
 			</td>
-			<td align="center">4</td>
+			<td align="center"><b>4</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/kartik-v/bootstrap-fileinput"><b>kartik-v/bootstrap-fileinput</b></a></td>
-			<td align="center">2018</td>
+			<td><a href="https://github.com/easypanel-io/templates"><b>easypanel-io/templates</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/easypanel-io/templates?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/kartik-v/bootstrap-fileinput/pull/1325">#1325 Add NPM in Readme</a>
+				• <a href="https://github.com/easypanel-io/templates/pull/447">#447 add: Pupilfirst</a><br/>
+				• <a href="https://github.com/easypanel-io/templates/pull/448">#448 add: ERPNext</a><br/>
+				• <a href="https://github.com/easypanel-io/templates/pull/460">#460 add: gitness</a>
 			</td>
-			<td align="center">1</td>
+			<td align="center"><b>3</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/twbs/bootstrap"><b>twbs/bootstrap</b></a></td>
-			<td align="center">2018</td>
+			<td><a href="https://github.com/forwardemail/reserved-email-addresses-list"><b>forwardemail/reserved-email-addresses-list</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/forwardemail/reserved-email-addresses-list?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/twbs/bootstrap/pull/27544">#27544 download page: add Yarn</a>
+				• <a href="https://github.com/forwardemail/reserved-email-addresses-list/pull/5">#5 Add Restrictions for Reserved Addresses</a>
 			</td>
-			<td align="center">1</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/imsky/holder"><b>imsky/holder</b></a></td>
-			<td align="center">2018</td>
+			<td><a href="https://github.com/laryssamagalhaes/pessoas-palestrantes"><b>laryssamagalhaes/pessoas-palestrantes</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/laryssamagalhaes/pessoas-palestrantes?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/imsky/holder/pull/222">#222 (Add) Yarn Command</a>
+				• <a href="https://github.com/laryssamagalhaes/pessoas-palestrantes/pull/32">#32 add MatheusRV as Speaker</a>
 			</td>
-			<td align="center">1</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/h3rmel/guarahooks"><b>h3rmel/guarahooks</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/h3rmel/guarahooks?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/h3rmel/guarahooks/pull/48">#48 Atualizar ambiente, aprimorar hooks e scripts</a><br/>
+				• <a href="https://github.com/h3rmel/guarahooks/pull/47">#47 Refinamento do texto em inglês na documentação e configurações do guarahooks</a><br/>
+				• <a href="https://github.com/h3rmel/guarahooks/pull/45">#45 PR #1</a>
+			</td>
+			<td align="center"><b>3</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/sandstorm-io/vagrant-spk"><b>sandstorm-io/vagrant-spk</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/sandstorm-io/vagrant-spk?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/sandstorm-io/vagrant-spk/pull/207">#207 Update Documentation Link</a>
+			</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/sudz123/happy_hacking"><b>sudz123/happy_hacking</b></a></td>
-			<td align="center">2018</td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/sudz123/happy_hacking?style=flat-square&labelColor=343b41"/></td>
 			<td>
 				• <a href="https://github.com/sudz123/happy_hacking/pull/360">#360 Delete .DS_Store</a>
 			</td>
-			<td align="center">1</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/HDInnovations/UNIT3D"><b>HDInnovations/UNIT3D</b></a></td>
-			<td align="center">2018</td>
+			<td><a href="https://github.com/algolia/wordpress-docker"><b>algolia/wordpress-docker</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/algolia/wordpress-docker?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/HDInnovations/UNIT3D/pull/419">#419 (Add) Submodules</a>
+				• <a href="https://github.com/algolia/wordpress-docker/pull/8">#8 New gd command for php7</a><br/>
+				• <a href="https://github.com/algolia/wordpress-docker/pull/7">#7 Fix to run on 2020</a>
 			</td>
-			<td align="center">1</td>
+			<td align="center"><b>2</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/kentonv/etherpad-lite"><b>kentonv/etherpad-lite</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/kentonv/etherpad-lite?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/kentonv/etherpad-lite/pull/42">#42 add a bigger screenshot</a>
+			</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/mattfeldman/discordlist"><b>mattfeldman/discordlist</b></a></td>
-			<td align="center">2017</td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/mattfeldman/discordlist?style=flat-square&labelColor=343b41"/></td>
 			<td>
 				• <a href="https://github.com/mattfeldman/discordlist/pull/93">#93 Fortnite Brasil</a><br/>
 				• <a href="https://github.com/mattfeldman/discordlist/pull/94">#94 Diablo 3 Brasil</a><br/>
 				• <a href="https://github.com/mattfeldman/discordlist/pull/95">#95 CSGO Brasil</a><br/>
-				↳ <a href="https://github.com/mattfeldman/discordlist/pulls?q=is%3Apr+is%3Amerged+author%3Amatbrgz"><b>+2 outros (ver todos os 5) →</b></a>
+				↳ <a href="https://github.com/mattfeldman/discordlist/pulls?q=author%3Amatbrgz"><b>+2 outros (ver todos os 5) →</b></a>
 			</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/crcn/aerial"><b>crcn/aerial</b></a></td>
-			<td align="center">2017</td>
-			<td>
-				• <a href="https://github.com/crcn/aerial/pull/37">#37 Update README.md</a>
-			</td>
-			<td align="center">1</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/Simen-Jens/Tindava"><b>Simen-Jens/Tindava</b></a></td>
-			<td align="center">2017</td>
-			<td>
-				• <a href="https://github.com/Simen-Jens/Tindava/pull/41">#41 Update settings.json</a>
-			</td>
-			<td align="center">1</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/kentonv/etherpad-lite"><b>kentonv/etherpad-lite</b></a></td>
-			<td align="center">2017</td>
-			<td>
-				• <a href="https://github.com/kentonv/etherpad-lite/pull/42">#42 add a bigger screenshot</a>
-			</td>
-			<td align="center">1</td>
+			<td align="center"><b>5</b></td>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/dwrensha/gitlab-sandstorm"><b>dwrensha/gitlab-sandstorm</b></a></td>
-			<td align="center">2017</td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/dwrensha/gitlab-sandstorm?style=flat-square&labelColor=343b41"/></td>
 			<td>
 				• <a href="https://github.com/dwrensha/gitlab-sandstorm/pull/26">#26 add a bigger screenshot</a>
 			</td>
-			<td align="center">1</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/sandstorm-io/vagrant-spk"><b>sandstorm-io/vagrant-spk</b></a></td>
-			<td align="center">2017</td>
+			<td><a href="https://github.com/gportugol/gpt"><b>gportugol/gpt</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/gportugol/gpt?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/sandstorm-io/vagrant-spk/pull/207">#207 Update Documentation Link</a>
+				• <a href="https://github.com/gportugol/gpt/pull/14">#14 CI: uma execução por commit em vez de duas (issue #9)</a><br/>
+				• <a href="https://github.com/gportugol/gpt/pull/32">#32 Não emite conversão de tipo no &quot;retorne&quot; sem valor (issue #29, item 1)</a>
 			</td>
-			<td align="center">1</td>
+			<td align="center"><b>2</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/crcn/aerial"><b>crcn/aerial</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/crcn/aerial?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/crcn/aerial/pull/37">#37 Update README.md</a>
+			</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/Simen-Jens/Tindava"><b>Simen-Jens/Tindava</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/Simen-Jens/Tindava?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/Simen-Jens/Tindava/pull/41">#41 Update settings.json</a>
+			</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/juan-silveira/lp-calc"><b>juan-silveira/lp-calc</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/juan-silveira/lp-calc?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/juan-silveira/lp-calc/pull/3">#3 Add caramelswap and remove single quotes</a>
+			</td>
+			<td align="center"><b>1</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/UnitedOpen-Source/microHelium"><b>UnitedOpen-Source/microHelium</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/UnitedOpen-Source/microHelium?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/UnitedOpen-Source/microHelium/pull/411">#411 O pino do Alpine passa a prometer o que o rótulo promete, e o build para de quebrar a cada revisão (#408)</a><br/>
+				• <a href="https://github.com/UnitedOpen-Source/microHelium/pull/409">#409 O `postgresql-dev` sai das três imagens depois de compilar o driver (#391)</a><br/>
+				• <a href="https://github.com/UnitedOpen-Source/microHelium/pull/410">#410 O competidor deixa de encontrar tela só em português (#397)</a><br/>
+				↳ <a href="https://github.com/UnitedOpen-Source/microHelium/pulls?q=author%3Amatbrgz"><b>+204 outros (ver todos os 207) →</b></a>
+			</td>
+			<td align="center"><b>207</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/FenixValley/web-fenixvalley.com.br"><b>FenixValley/web-fenixvalley.com.br</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/FenixValley/web-fenixvalley.com.br?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/FenixValley/web-fenixvalley.com.br/pull/19">#19 feat: animações da home, banco D1, área admin, mapa do ecossistema e voluntariado</a><br/>
+				• <a href="https://github.com/FenixValley/web-fenixvalley.com.br/pull/20">#20 feat: cadastro do /mapa envia para o Google Forms</a><br/>
+				• <a href="https://github.com/FenixValley/web-fenixvalley.com.br/pull/18">#18 feat: melhora visual das seções ecosystem, faca-parte e oportunidades</a>
+			</td>
+			<td align="center"><b>3</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/ryuuzaki42/26_DL_PVANet_files"><b>ryuuzaki42/26_DL_PVANet_files</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/ryuuzaki42/26_DL_PVANet_files?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/ryuuzaki42/26_DL_PVANet_files/pull/3">#3 Parser and formatter in favor of readability | Force LF ending</a><br/>
+				• <a href="https://github.com/ryuuzaki42/26_DL_PVANet_files/pull/2">#2 Ready for Review: SC2045 avoid</a>
+			</td>
+			<td align="center"><b>2</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/UnitedOpen-Source/joulex"><b>UnitedOpen-Source/joulex</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/UnitedOpen-Source/joulex?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/UnitedOpen-Source/joulex/pull/230">#230 chore: add pre-commit Rust checks and contribution guide</a><br/>
+				• <a href="https://github.com/UnitedOpen-Source/joulex/pull/224">#224 chore: rebrand project from joulex to perfratio</a><br/>
+				• <a href="https://github.com/UnitedOpen-Source/joulex/pull/229">#229 fix(until): terminate surviving descendants after readiness</a><br/>
+				↳ <a href="https://github.com/UnitedOpen-Source/joulex/pulls?q=author%3Amatbrgz"><b>+103 outros (ver todos os 106) →</b></a>
+			</td>
+			<td align="center"><b>106</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/UnitedOpen-Source/redirect.center"><b>UnitedOpen-Source/redirect.center</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/UnitedOpen-Source/redirect.center?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/UnitedOpen-Source/redirect.center/pull/5">#5 Separate Desvio site routes and document upstream history</a><br/>
+				• <a href="https://github.com/UnitedOpen-Source/redirect.center/pull/2">#2 docs: atualizar o README para o Desvio</a><br/>
+				• <a href="https://github.com/UnitedOpen-Source/redirect.center/pull/1">#1 Desvio: nova interface, gerador DNS, analytics por redirecionamento e denúncias</a>
+			</td>
+			<td align="center"><b>3</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/webminas/payload"><b>webminas/payload</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/webminas/payload?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				• <a href="https://github.com/webminas/payload/pull/1">#1 Add support for Cloudflare vinext</a>
+			</td>
+			<td align="center"><b>1</b></td>
 		</tr>
 	</tbody>
 </table>
