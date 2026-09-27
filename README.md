@@ -112,6 +112,68 @@ Technology professional **since 2006**, combining software development, technica
 </details>
 <!-- opensource_projects ends -->
 
+<!-- opensource_contributions starts -->
+<details open>
+<summary><b> Open Source Contributions </b></summary>
+<br/>
+
+Accepted contributions across the open-source ecosystem, organized chronologically by year:
+
+#### 2026 (325 contributions)
+- **[UnitedOpen-Source/joulex](https://github.com/UnitedOpen-Source/joulex)**: [#230 chore: add pre-commit Rust checks and contribution guide](https://github.com/UnitedOpen-Source/joulex/pull/230)
+- **[UnitedOpen-Source/microHelium](https://github.com/UnitedOpen-Source/microHelium)**: [#411 ci: pin Alpine base and stabilize CI builds](https://github.com/UnitedOpen-Source/microHelium/pull/411)
+- **[UnitedOpen-Source/redirect.center](https://github.com/UnitedOpen-Source/redirect.center)**: [#5 Separate Desvio site routes and document upstream history](https://github.com/UnitedOpen-Source/redirect.center/pull/5)
+
+> 🔗 [View all 325 contributions from 2026 →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Amatbrgz+merged%3A2026-01-01..2026-12-31&type=pullrequests)
+
+#### 2025 (4 contributions)
+- **[jamstack/jamstack.org](https://github.com/jamstack/jamstack.org)**: [#1046 Add Rustyll Static Site Generator to Jamstack Generators](https://github.com/jamstack/jamstack.org/pull/1046)
+- **[h3rmel/guarahooks](https://github.com/h3rmel/guarahooks)**: [#48 Atualizar ambiente, aprimorar hooks e scripts](https://github.com/h3rmel/guarahooks/pull/48)
+- **[h3rmel/guarahooks](https://github.com/h3rmel/guarahooks)**: [#47 Refinamento do texto em inglês na documentação e configurações do guarahooks](https://github.com/h3rmel/guarahooks/pull/47)
+
+> 🔗 [View all 4 contributions from 2025 →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Amatbrgz+merged%3A2025-01-01..2025-12-31&type=pullrequests)
+
+#### 2022 (1 contribution)
+- **[forwardemail/reserved-email-addresses-list](https://github.com/forwardemail/reserved-email-addresses-list)**: [#5 Add Restrictions for Reserved Addresses](https://github.com/forwardemail/reserved-email-addresses-list/pull/5)
+
+#### 2021 (5 contributions)
+- **[outline/outline](https://github.com/outline/outline)**: [#2293 feat: Add Google DataStudio embed](https://github.com/outline/outline/pull/2293)
+- **[saadeghi/design-systems](https://github.com/saadeghi/design-systems)**: [#2 Update Rock Content Design System](https://github.com/saadeghi/design-systems/pull/2)
+- **[JupiterOne/security-policy-templates](https://github.com/JupiterOne/security-policy-templates)**: [#90 Fix: Duplicated Registry in Json](https://github.com/JupiterOne/security-policy-templates/pull/90)
+
+> 🔗 [View all 5 contributions from 2021 →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Amatbrgz+merged%3A2021-01-01..2021-12-31&type=pullrequests)
+
+#### 2020 (6 contributions)
+- **[outline/outline](https://github.com/outline/outline)**: [#1465 feat: Add ClickUp Embed Service](https://github.com/outline/outline/pull/1465)
+- **[outline/outline](https://github.com/outline/outline)**: [#1541 chore: Upgrade Sentry to Latest Version](https://github.com/outline/outline/pull/1541)
+- **[algolia/wordpress-docker](https://github.com/algolia/wordpress-docker)**: [#8 New gd command for php7](https://github.com/algolia/wordpress-docker/pull/8)
+
+> 🔗 [View all 6 contributions from 2020 →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Amatbrgz+merged%3A2020-01-01..2020-12-31&type=pullrequests)
+
+#### 2019 (19 contributions)
+- **[electron/electron](https://github.com/electron/electron)**: [#17864 fix: Comparison using is when operands support \_\_eq\_\_](https://github.com/electron/electron/pull/17864)
+- **[gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)**: [#13467 chore(www): fix redundant boolean condition](https://github.com/gatsbyjs/gatsby/pull/13467)
+- **[jaredpalmer/formik](https://github.com/jaredpalmer/formik)**: [#1447 Overwritten property](https://github.com/jaredpalmer/formik/pull/1447)
+
+> 🔗 [View all 19 contributions from 2019 →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Amatbrgz+merged%3A2019-01-01..2019-12-31&type=pullrequests)
+
+#### 2018 (23 contributions)
+- **[twbs/bootstrap](https://github.com/twbs/bootstrap)**: [#27544 download page: add Yarn](https://github.com/twbs/bootstrap/pull/27544)
+- **[all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org)**: [#82 Internacionalization (PT-BR)](https://github.com/all-contributors/allcontributors.org/pull/82)
+- **[TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks)**: [#3826 Vagrant Fix for WSL](https://github.com/TechEmpower/FrameworkBenchmarks/pull/3826)
+
+> 🔗 [View all 23 contributions from 2018 →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Amatbrgz+merged%3A2018-01-01..2018-12-31&type=pullrequests)
+
+#### 2017 (11 contributions)
+- **[sandstorm-io/vagrant-spk](https://github.com/sandstorm-io/vagrant-spk)**: [#207 Update Documentation Link](https://github.com/sandstorm-io/vagrant-spk/pull/207)
+- **[udleinati/redirect.center](https://github.com/udleinati/redirect.center)**: [#15 pt-br update](https://github.com/udleinati/redirect.center/pull/15)
+- **[crcn/aerial](https://github.com/crcn/aerial)**: [#37 Update README.md](https://github.com/crcn/aerial/pull/37)
+
+> 🔗 [View all 11 contributions from 2017 →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Amatbrgz+merged%3A2017-01-01..2017-12-31&type=pullrequests)
+
+</details>
+<!-- opensource_contributions ends -->
+
 <!-- stack starts -->
 <details closed>
 <summary><b> My Technology Stack </b></summary>
