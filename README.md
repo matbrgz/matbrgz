@@ -55,10 +55,14 @@ Technology professional **since 2006**, combining software development, technica
 <!-- opensource_projects starts -->
 <details open>
 <summary><b> My Open Source Projects </b></summary>
+
+<br/>
+
+#### 🌐 betterweb (<a href="https://github.com/betterwebinit">@betterwebinit</a>)
 <table>
 	<thead align="center">
 		<tr border: none;>
-			<td><b>Projects</b></td>
+			<td><b>Project</b></td>
 			<td><b>Description</b></td>
 			<td><b>Stars</b></td>
 			<td><b>Forks</b></td>
@@ -83,6 +87,30 @@ Technology professional **since 2006**, combining software development, technica
 			<td><img alt="Issues" src="https://img.shields.io/github/issues/betterwebinit/designkit?style=flat-square&labelColor=343b41"/></td>
 			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/betterwebinit/designkit?style=flat-square&labelColor=343b41"/></td>
 		</tr>
+	</tbody>
+</table>
+
+#### ∪ United Open Source (<a href="https://github.com/UnitedOpen-Source">@UnitedOpen-Source</a>)
+<table>
+	<thead align="center">
+		<tr border: none;>
+			<td><b>Project</b></td>
+			<td><b>Description</b></td>
+			<td><b>Stars</b></td>
+			<td><b>Forks</b></td>
+			<td><b>Issues</b></td>
+			<td><b>Pull requests</b></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="https://github.com/UnitedOpen-Source/perfratio"><b>perfratio</b></a></td>
+			<td>Precision energy & command execution benchmarking tool</td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/UnitedOpen-Source/perfratio?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/UnitedOpen-Source/perfratio?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/UnitedOpen-Source/perfratio?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UnitedOpen-Source/perfratio?style=flat-square&labelColor=343b41"/></td>
+		</tr>
 		<tr>
 			<td><a href="https://github.com/UnitedOpen-Source/microHelium"><b>microHelium</b></a></td>
 			<td>ICPC-style online judge & contest platform (Laravel + Vue)</td>
@@ -92,14 +120,6 @@ Technology professional **since 2006**, combining software development, technica
 			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UnitedOpen-Source/microHelium?style=flat-square&labelColor=343b41"/></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/UnitedOpen-Source/joulex"><b>joulex</b></a></td>
-			<td>Precision energy & command execution benchmarking tool</td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/UnitedOpen-Source/joulex?style=flat-square&labelColor=343b41"/></td>
-			<td><img alt="Forks" src="https://img.shields.io/github/forks/UnitedOpen-Source/joulex?style=flat-square&labelColor=343b41"/></td>
-			<td><img alt="Issues" src="https://img.shields.io/github/issues/UnitedOpen-Source/joulex?style=flat-square&labelColor=343b41"/></td>
-			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UnitedOpen-Source/joulex?style=flat-square&labelColor=343b41"/></td>
-		</tr>
-		<tr>
 			<td><a href="https://github.com/UnitedOpen-Source/redirect.center"><b>redirect.center</b></a></td>
 			<td>Stateless HTTP/HTTPS domain redirection service via DNS</td>
 			<td><img alt="Stars" src="https://img.shields.io/github/stars/UnitedOpen-Source/redirect.center?style=flat-square&labelColor=343b41"/></td>
@@ -107,6 +127,22 @@ Technology professional **since 2006**, combining software development, technica
 			<td><img alt="Issues" src="https://img.shields.io/github/issues/UnitedOpen-Source/redirect.center?style=flat-square&labelColor=343b41"/></td>
 			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UnitedOpen-Source/redirect.center?style=flat-square&labelColor=343b41"/></td>
 		</tr>
+	</tbody>
+</table>
+
+#### 👤 Personal Projects (<a href="https://github.com/matbrgz">@matbrgz</a>)
+<table>
+	<thead align="center">
+		<tr border: none;>
+			<td><b>Project</b></td>
+			<td><b>Description</b></td>
+			<td><b>Stars</b></td>
+			<td><b>Forks</b></td>
+			<td><b>Issues</b></td>
+			<td><b>Pull requests</b></td>
+		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td><a href="https://github.com/matbrgz/rocknext"><b>rocknext</b></a></td>
 			<td>Frappe/ERPNext app for enterprise use</td>
@@ -560,13 +596,13 @@ Technology professional **since 2006**, combining software development, technica
 			<td align="center"><b>2</b></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/UnitedOpen-Source/joulex"><b>UnitedOpen-Source/joulex</b></a></td>
-			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/UnitedOpen-Source/joulex?style=flat-square&labelColor=343b41"/></td>
+			<td><a href="https://github.com/UnitedOpen-Source/perfratio"><b>UnitedOpen-Source/perfratio</b></a></td>
+			<td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/UnitedOpen-Source/perfratio?style=flat-square&labelColor=343b41"/></td>
 			<td>
-				• <a href="https://github.com/UnitedOpen-Source/joulex/pull/230">#230 chore: add pre-commit Rust checks and contribution guide</a><br/>
-				• <a href="https://github.com/UnitedOpen-Source/joulex/pull/224">#224 chore: rebrand project from joulex to perfratio</a><br/>
-				• <a href="https://github.com/UnitedOpen-Source/joulex/pull/229">#229 fix(until): terminate surviving descendants after readiness</a><br/>
-				↳ <a href="https://github.com/UnitedOpen-Source/joulex/pulls?q=author%3Amatbrgz"><b>+103 outros (ver todos os 106) →</b></a>
+				• <a href="https://github.com/UnitedOpen-Source/perfratio/pull/230">#230 chore: add pre-commit Rust checks and contribution guide</a><br/>
+				• <a href="https://github.com/UnitedOpen-Source/perfratio/pull/224">#224 chore: rebrand project from joulex to perfratio</a><br/>
+				• <a href="https://github.com/UnitedOpen-Source/perfratio/pull/229">#229 fix(until): terminate surviving descendants after readiness</a><br/>
+				↳ <a href="https://github.com/UnitedOpen-Source/perfratio/pulls?q=author%3Amatbrgz"><b>+103 outros (ver todos os 106) →</b></a>
 			</td>
 			<td align="center"><b>106</b></td>
 		</tr>
