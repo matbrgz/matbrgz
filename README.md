@@ -40,10 +40,6 @@ Technology professional **since 2006**, combining software development, technica
 			<td>Data Protection & Compliance Officer</td>
 		</tr>
 		<tr>
-			<td><b><a href="https://www.viacarro.com/">ViaCarro</a></b></td>
-			<td>Chief Technology Officer</td>
-		</tr>
-		<tr>
 			<td><b><a href="https://www.rockcontent.com/">Rock Content</a></b></td>
 			<td>Frontend Developer</td>
 		</tr>
